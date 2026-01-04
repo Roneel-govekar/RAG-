@@ -1,9 +1,8 @@
 langchain
 langchain-core
 langchain-community
-pypdf
-pymupdf
-pydantic
+chromadb
 sentence-transformers
 faiss-cpu
-chromadb
+pypdf
+pymupdf
