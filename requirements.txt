@@ -8,3 +8,5 @@ pypdf
 pymupdf
 langchain-groq
 python-dotenv
+typesense
+jsonlines==4.0.0
